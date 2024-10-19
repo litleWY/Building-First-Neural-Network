@@ -65,7 +65,7 @@ This project uses the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.
 ## Project Features
 
 - **ResNet from Scratch**: The project does not use a pre-trained model but instead builds ResNet-18 from scratch, helping you understand residual networks in deep learning.
-- **Automatic Mixed Precision Training**: Uses `torch.cuda.amp` to accelerate training and reduce memory usage.
+- **Training By AppleM3**: Uses AppleM3 to train the model.
 - **Training Visualization**: The `vis.py` script generates training loss and accuracy curves, saving them in the `loss/` folder to help you understand model convergence.
 
 ## Dependencies
