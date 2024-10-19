@@ -1,0 +1,7 @@
+# requirements.txt
+# 以下是项目所需的依赖库，可以通过运行 'pip install -r requirements.txt' 安装
+
+torch
+torchvision
+matplotlib
+numpy
