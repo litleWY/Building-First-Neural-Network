@@ -27,7 +27,7 @@ This project uses the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.
 
    ```bash
    git clone https://github.com/yourusername/deep-learning-intro.git
-   cd deep-learning-intro
+   cd Building-Your-Own-Neural-Network
    ```
 
 2. **Install Dependencies**
